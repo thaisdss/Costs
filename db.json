@@ -2,69 +2,21 @@
   "projects": [
     {
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
-      "budget": "6000",
-      "name": "Amélia Princifield",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Alepher Nunes Santos",
-      "budget": "10000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Software de Planilhas",
-      "budget": "12000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Meu projeto 4",
+      "name": "Projeto 01",
       "budget": "150000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Projeto 5",
-      "budget": "2000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Projeto 6",
-      "budget": "100",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Serviço 01",
+          "description": "Primeiro serviço",
+          "cost": "1000",
+          "id": "4427d631-425a-4479-9c8b-107e40a33cd4"
+        }
+      ],
+      "id": 1
     }
   ],
   "categories": [
